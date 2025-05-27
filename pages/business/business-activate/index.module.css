@@ -1,0 +1,139 @@
+.hellotextcardtext {
+    padding-top: 3.5rem;
+    color: #000000;
+}
+
+.hellotextcardtitle {
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    color: #01345b;
+}
+
+.hellotextcardheading {
+    font-size: 2.5rem;
+    position: absolute;
+    padding: 1%;
+}
+
+.cardimg {
+    height: 280px;
+    width: 350px;
+}
+
+.wrimagecard {
+    margin-bottom: 0.7rem;
+    font-size: 2.5rem;
+    line-height: 1.2;
+    margin-top: 0;
+    color: #02827f;
+}
+
+.wrimagecardcontent {
+    margin-left: -131px;
+}
+
+.wrimagecardtextcolor {
+    color: #01345B;
+    margin: 2rem;
+}
+
+.hellotextcard {
+    margin-top: 4rem;
+}
+
+.buttoncard {
+    float: right;
+    margin-top: 6rem;
+}
+
+.buttoncolor {
+    width: 15rem;
+    height: 2.5rem;
+    background-color: #ff3b00;
+    border: #ff3b00;
+    box-shadow: 4px 4px 4px #FFA07A;
+}
+
+.buttoncolor:hover {
+    width: 15rem;
+    height: 2.5rem;
+    background-color: #ff3b00;
+    border: #ff3b00;
+    box-shadow: 4px 4px 4px #FFA07A;
+}
+
+.businesscardtitle {
+    font-size: 2rem;
+    color: #707070;
+    margin-bottom: 0.8rem;
+    margin-top: 2rem;
+}
+
+.businesscardsubtitle {
+    font-size: 1rem;
+    color: #01345B;
+    margin-bottom: 0.8rem;
+}
+
+.businesscardtext {
+    font-size: 0.8rem;
+}
+
+.teachercardimg {
+    width: 170px;
+    height: 170px;
+    float: right;
+}
+
+.busiinescardheading {
+    color: #7D7D7D;
+    margin-top: 2rem;
+}
+
+.businesscards {
+    margin: 2rem;
+}
+
+.businesscardsimg {
+    width: 80px;
+    height: 80px;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    margin-left: 5rem;
+}
+
+.businesscardsaccountsimg {
+    width: 150px;
+    height: 150px;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    margin-left: 5rem;
+}
+
+.businesscardindex {
+    width: 30px;
+    height: 30px;
+    border-radius: 30px;
+    background-color: #255DAD;
+    color: #FFFFFF;
+    margin-right: 1rem;
+    line-height: 30px;
+    text-align: center;
+}
+
+.businesscardwrapper {
+    display: inline-flex;
+}
+
+.businesscardcaption {
+    color: #474747;
+    margin-top: 0.3rem;
+    font-weight: 500;
+}
+
+.businesscardcontent {
+    text-align: justify;
+    margin-left: 2.5rem;
+    color: #707070;
+}

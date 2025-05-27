@@ -1,0 +1,304 @@
+.wrimagecard {
+    margin-bottom: 0.5rem;
+    font-size: 2.5rem;
+    line-height: 1.2;
+    margin-top: 0;
+    color: #02827f;
+}
+
+.wrimagecardcontent {
+    padding-left: 3.5rem;
+    margin-top: -0.3rem;
+    font-weight: 500;
+}
+
+
+/* .bussinessnavbar{
+    margin-bottom: 2rem;
+} */
+
+.iconcolor {
+    width: 35px;
+    height: 33px;
+    margin-right: 1rem;
+}
+
+.servicescard {
+    margin-left: 4rem;
+}
+
+.serviceform {
+    /* margin-left: 1.5rem; */
+}
+
+.servicestitle {
+    font-size: 1.5rem;
+    color: #02827f;
+    font-weight: 500;
+    margin-bottom: 2rem;
+    cursor: pointer;
+    margin-left: 1rem;
+}
+
+.servicetypes {
+    padding-top: 0.5rem;
+}
+
+.basicservicestitle {
+    font-size: 1.2rem;
+    color: #ff784f;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.labelcolor {
+    font-size: 1rem;
+    color: #01345b;
+    font-weight: 480;
+}
+
+.labledisplay {
+    display: inline-block;
+    margin-bottom: 0.5rem;
+}
+
+.subservicename {
+    margin-top: 1.5rem;
+}
+
+.detailsTextarea {
+    margin-top: 1%;
+    width: 100% !important;
+}
+
+.basicservicecolor {
+    padding-top: 1rem;
+    color: #01345b;
+    background-color: #dddddd;
+    width: 11rem;
+    height: 2rem;
+    line-height: 0.2rem;
+    padding-left: 0.8rem;
+}
+
+.servicetypescontent {
+    padding-left: 0.8rem;
+    padding-top: 0.5rem;
+}
+
+.servicetypecard {
+    margin-top: 3.7rem;
+    border-right: 1px solid #dddddd;
+}
+
+.moneytextcolor {
+    color: #01345b;
+    background-color: #edf4ea;
+    font-weight: 700;
+    float: right;
+    font-size: 16px;
+    margin-right: -140px;
+}
+
+.basicserviceeditbutton {
+    color: #01345b;
+    background-color: transparent;
+    height: 2.3rem;
+    font-weight: 700;
+    float: right;
+    cursor: pointer;
+    font-size: 16px;
+    border: 1px solid #01345b;
+    /* margin-right: -120px; */
+    margin-right: -3rem;
+    text-align: center;
+    line-height: 1rem;
+}
+
+.addservicecard {
+    margin-left: 4.8rem !important;
+    margin-top: 2rem;
+}
+
+.formcontrolsave {
+    background: #01345b;
+    border-color: #01345b;
+    font-weight: 600;
+    margin-left: -12px;
+}
+
+.formcontrolcancel {
+    color: #01345b;
+    background: #ffff;
+    font-weight: 600;
+}
+
+.formcontrolbuttonright {
+    text-align: right;
+}
+
+.formcontrolright {
+    margin-left: 29rem;
+}
+
+
+/* .form-control-border {
+    border-top-style: hidden !important;
+    border-right-style: hidden !important;
+    border-left-style: hidden !important;
+} */
+
+
+/* .addservicecolor{
+    margin-left: 4.5rem;
+} */
+
+.addanotherbuttoncolor {
+    color: #02827f;
+    background-color: transparent;
+    margin-bottom: 2rem;
+    border: 1px solid #02827f;
+}
+
+.addanotherbuttoncolor:hover {
+    color: #ffffff;
+    background-color: #02827f;
+}
+
+.addservicecolor {
+    color: #02827f;
+    background-color: transparent;
+    /* margin-bottom: 2rem; */
+    border: 1px solid #02827f;
+}
+
+.addservicecolor:hover {
+    color: #ffffff;
+    background-color: #02827f;
+}
+
+.tablemoneytextcolor {
+    font-family: Helvetica Neue;
+    font-size: 1rem;
+    font-style: normal;
+    font-weight: 700;
+    color: #ff784f;
+    /* text-align: center;
+    width: 50px;
+    float: left; */
+    /* margin-left: -2.5rem; */
+}
+
+.servicetextcolor {
+    color: #01345b;
+    font-style: normal;
+    font-family: Yu Gothic UI !important;
+}
+
+.servicetypetextcolor {
+    font-style: normal;
+    font-family: Yu Gothic UI !important;
+    cursor: pointer;
+}
+
+.subservicetextcolor {
+    color: #01345b;
+    font-style: normal;
+    font-family: Yu Gothic UI !important;
+    cursor: pointer;
+}
+
+.editbuttontextcolor {
+    color: #01345b;
+    background-color: transparent;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 16px;
+    height: 2.3rem;
+    /* width: 40px; */
+    text-align: center;
+    line-height: 1.5rem;
+    cursor: pointer;
+}
+
+.editbuttontextcolor:hover {
+    color: #01345b;
+    background-color: transparent;
+}
+
+.activationcolor {
+    color: #01345b;
+    background-color: transparent;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 16px;
+    border: none;
+}
+
+.progresstitle {
+    margin-left: 5rem;
+    margin-top: -4.5rem;
+}
+
+.progressindicator {
+    margin-bottom: 4rem;
+}
+
+.formcontrolback {
+    color: #01345b;
+    background: #ffff;
+    border-color: #01345b;
+    font-weight: 700;
+    margin-top: 1.5rem;
+}
+
+.formcontrolnext {
+    color: #01345b;
+    background: #ffff;
+    border-color: #01345b;
+    font-weight: 700;
+    float: right;
+    margin-top: 1.5rem;
+}
+
+.closecontrol {
+    position: absolute;
+    top: 4.5rem;
+    /* left: 25rem; */
+    cursor: pointer;
+}
+
+.rightimagecard {
+    margin-top: -0.3rem;
+}
+
+.addBusiness {
+    background-color: #01345b;
+    color: #fff;
+    font-weight: 800;
+    /* margin: 1rem; */
+    margin-left: 0rem;
+}
+
+.facircle {
+    margin-right: 0.5rem;
+}
+
+.listingButton {
+    border: 1 px #b32424;
+    color: #01345b;
+    font-weight: 500;
+    /* padding: 0.5rem;
+    margin: 0.5rem; */
+    background-color: #fff;
+}
+
+.listingNumber {
+    padding-left: 1rem;
+}
+
+.modalheader {
+    background: #01345b;
+    color: white;
+    font-size: 20px;
+}

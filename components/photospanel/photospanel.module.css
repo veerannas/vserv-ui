@@ -1,0 +1,28 @@
+.foodImage {
+    width: 211px;
+    border: 2px solid #fff;
+    height: 162px;
+}
+
+.gapphoto {
+    margin-top: 3px;
+}
+
+.colpad {
+    padding: 0px;
+}
+
+.eachslide>div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    height: 400px;
+}
+
+.eachslide span {
+    padding-left: 20px;
+    font-size: 20px;
+    background: #efefef;
+    text-align: center;
+}

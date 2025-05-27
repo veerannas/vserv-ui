@@ -1,0 +1,27 @@
+.starratingcomponent {
+    font-size: 45px;
+}
+
+.star {
+    font-size: 35px;
+    text-align: center;
+}
+
+.startext {
+    text-align: center;
+}
+
+.reviewsubmit {
+    width: 100%;
+    background-color: #ff784f;
+    color: white;
+    font-weight: 500;
+    border: 2px solid #ff784f;
+}
+
+.reviewtitle {
+    font-size: 20px;
+    margin-top: 2%;
+    color: #00325d;
+    font-weight: 700;
+}

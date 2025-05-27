@@ -1,0 +1,47 @@
+.viewbutton {
+    background-color: #17517d;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    width: 220px;
+    height: 40px;
+    color: #fff;
+    font-weight: 500;
+}
+
+.viewbutton:hover {
+    background-color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    width: 220px;
+    height: 40px;
+    color: #17517d;
+    font-weight: 500;
+}
+
+.menutitle {
+    color: #ff784f;
+    font-weight: bold;
+}
+
+.menusubtitle {
+    color: #00325d;
+    font-weight: bold;
+}
+
+.menuheading {
+    color: #00325d;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.collapseshow {
+    height: 100%;
+    overflow: hidden;
+}
+
+.collapsehide {
+    height: 120px;
+    overflow: hidden;
+}
+
+.buttoncenter {
+    text-align: center;
+}

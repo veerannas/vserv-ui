@@ -1,0 +1,107 @@
+.wrimagecardtext {
+    padding-top: 0.5rem;
+    color: #888585;
+}
+
+.wrimagecardtitle {
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    color: #01345b;
+}
+
+.wrimagecardheading {
+    font-size: 1.3rem;
+    position: absolute;
+    padding: 1%;
+    margin-left: 1rem;
+}
+
+.wrimagecard {
+    margin-bottom: 0.5rem;
+    font-size: 2rem;
+    line-height: 1.5;
+    margin-top: 0;
+    color: #01345b;
+    font-weight: 500;
+}
+
+.wrimagecardcontent {
+    padding-left: 3rem;
+    margin-top: -0.3rem;
+    font-weight: 500;
+}
+
+.wrimagecardtextcolor {
+    color: #ff3b00;
+    cursor: pointer;
+}
+
+.labelcolor {
+    color: #000;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.formcontroledit {
+    color: #01345b;
+    font-weight: 700;
+    float: right;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.formcontrolsave {
+    background: #01345b;
+    border-color: #01345b;
+    font-weight: 600;
+}
+
+.cardimg {
+    width: 20%;
+}
+
+.formcontrolcancel {
+    color: #01345b;
+    background: #ffff;
+    font-weight: 600;
+}
+
+.buttonright {
+    float: right;
+}
+
+.labledisplay {
+    display: inline-block;
+    margin-bottom: 0.5rem;
+}
+
+.cardimgcenter {
+    text-align: center;
+}
+
+.formcontrolbuttonright {
+    text-align: right;
+}
+
+.labelcolormargin {
+    margin-left: -123px;
+}
+
+.statecontrol{
+    width: 100%;
+    /* margin-top: 1.1rem; */
+    color: #6c757d;
+    border-color: #DDDDDD;
+    padding: 0.6rem;
+    padding-left: 0rem;
+  }
+  
+  .countrycontrol{
+    width: 100%;
+    /* margin-top: 1.1rem; */
+    color: #6c757d;
+    border-color: #DDDDDD;
+    padding: 0.6rem;
+    padding-left: 0rem;
+  }

@@ -1,0 +1,116 @@
+.cards {
+	padding: 3rem 0;
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	color: #063f7b;
+	background-color: #ffff;
+}
+
+.customcards {
+	box-shadow: 0 0 #000 !important;
+}
+
+.cardstitle {
+	font-size: 26px;
+	font-weight: bold;
+	color: #01345b !important;
+	display: inline-block;
+	position: relative;
+	margin: 10px 10px 0 0;
+	padding: 5px 10px;
+}
+
+.cardsubtitle {
+	font-size: 21px;
+	color: #707070;
+	font-weight: 450;
+}
+
+.cardstitle::after {
+	content: '';
+	height: 1px;
+	width: 70%;
+	background-color: #000;
+	position: absolute;
+	bottom: -0.5rem;
+	left: 50%;
+	-webkit-transform: translate(-50%);
+	transform: translate(-50%);
+	top: 48px;
+}
+
+.cardswrapper {
+	overflow: hidden;
+	text-align: center;
+	background-color: #ffff;
+	height: 80px;
+}
+
+.subcardswrapper {
+	text-align: center;
+	background-color: #ffff;
+	padding-bottom: 2rem;
+}
+
+.cardstitlewrapper {
+	display: inline-block;
+	position: relative;
+}
+
+.cardsback {
+	padding-left: 35px;
+	padding-right: 35px;
+	margin-top: -15px;
+}
+
+.cardtextsize {
+	text-align: justify;
+}
+
+.cardtextalign {
+	text-align: justify;
+	color: #01345b !important;
+}
+
+.cardtext {
+	color: #01345b !important;
+	text-align: left;
+}
+
+.cardtitle {
+	font-weight: 600;
+	font-size: 1.3rem;
+	color: #474747;
+	margin-left: -0.6rem;
+}
+.cardcenter {
+	text-align: center;
+}
+
+.cardborder {
+	border-radius: 20px;
+	background-color: #f0fbff;
+}
+
+.cardimage {
+	width: 7rem;
+	height: 7rem;
+	margin-top: 1rem;
+}
+
+.cardtext {
+	color: #707070;
+	text-align: center;
+}
+
+.numberimage {
+	padding: 0.5rem;
+}
+
+.textcolor {
+	color: #01345b !important;
+}

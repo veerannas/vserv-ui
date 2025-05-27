@@ -1,0 +1,202 @@
+.wrimagecard {
+  margin-bottom: 0.5rem;
+  font-size: 2.5rem;
+  line-height: 1.2;
+  margin-top: 0;
+  color: #02827f;
+}
+
+.wrimagecardcontent {
+  padding-left: 3.5rem;
+  margin-top: -0.3rem;
+  font-weight: 500;
+}
+
+.wrimagecardheading {
+  font-size: 1.3rem;
+  position: absolute;
+  padding: 1%;
+  margin-left: 1rem;
+}
+
+.wrimagecardtitle {
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+  line-height: 1.2;
+  color: #02827f;
+}
+
+.wrimagecardtextcolor {
+  color: #ff3b00;
+}
+
+.iconcolor {
+  height: 35px;
+  width: 35px;
+  margin-right: 1rem;
+}
+
+.address {
+  padding: 1rem;
+  color: #02827f;
+  font-size: 2rem;
+  padding-left: 0rem;
+}
+
+.leftPanelEdit {
+  /* padding: 2.4rem; */
+  color: #01345b;
+  font-weight: 600;
+  /* font-size: 1.2rem; */
+  border: none;
+  background-color: #ffff;
+}
+
+.formcontrolback {
+  background: #01345b;
+  border-color: #01345b;
+  font-weight: 600;
+}
+
+.formcontrolnext {
+  color: #01345b;
+  background: #ffff;
+  font-weight: 600;
+  float: right;
+}
+
+.editCol {
+  padding: 1.6rem;
+}
+
+.formControlPlaceHolder {
+  padding-left: 0rem;
+}
+
+.formcontrolbuttonright {
+  text-align: right;
+}
+
+.formcontrolsave {
+  color: #01345b;
+  background: #ffff;
+  font-weight: 600;
+}
+
+.formcontrolcancel {
+  background: #01345b;
+  border-color: #01345b;
+  font-weight: 600;
+}
+
+.formcontroladd {
+  color: #01345b;
+  background: #ffff;
+  font-weight: 600;
+  border: none;
+}
+
+.btnCancel {
+  background: #01345b;
+  border-color: #01345b;
+  font-weight: 600;
+}
+
+.btnSave {
+  color: #01345b;
+  background: #ffff;
+  font-weight: 600;
+}
+
+.getAddPara,
+.editDiv {
+  font-family: "Calibiri";
+  /* font-size: 1.2rem; */
+  font-weight: 500;
+}
+
+.countrySelect {
+  /* border-right: none;
+  border-top: none;
+  border-left: none; */
+  border: none;
+}
+
+.notificationcheckbox {
+  float: left;
+  cursor: pointer;
+  appearance: none;
+  zoom: 1.5;
+  color: #ff3b00;
+  /* zoom: 90; */
+}
+
+.editDiv {
+  padding: 0rem;
+}
+
+.contactDetailsDiv {
+  border: 1px solid gray;
+  display: block;
+  padding: 0.5rem;
+  /* margin-left: 1rem; */
+}
+
+.contactDetailsActionDiv {
+  display: flex;
+}
+
+.span {
+  font-weight: 600;
+  color: #ff3b00;
+  margin-top: 5px;
+}
+
+.contactRow {
+  display: block;
+}
+
+.phoneInput {
+  border: none;
+}
+
+.formcontroledit {
+  color: #01345b;
+  font-weight: 700;
+  float: right;
+  cursor: pointer;
+  font-size: 16px;
+  padding-right: 10px;
+}
+
+.DetailsCol {
+  display: flex;
+  padding-left: 1.5rem;
+}
+
+.buttonprimary {
+  color: #ff784f;
+  padding-left: 3rem;
+}
+
+.buttonedit {
+  color: #01345b;
+  padding-left: 1rem;
+  cursor: pointer;
+}
+
+.buttonremove {
+  color: #01345b;
+  padding-left: 1rem;
+  cursor: pointer !important;
+}
+
+.rightimagecard {
+  margin-top: -0.3rem;
+}
+
+.scroll {
+  overflow-x: hidden;
+  overflow-y: scroll;
+  height: 455px;
+}

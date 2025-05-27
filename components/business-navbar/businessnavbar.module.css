@@ -1,0 +1,54 @@
+/* .customnavbar {
+	color: #02827f;
+	text-decoration: none;
+	cursor: pointer;
+	font-size: 1.2rem;
+}
+.customnavbar:hover {
+	color: #ff784f;
+    font-weight: 600;
+}
+
+.login {
+	border-radius: 50px !important;
+	color: #409de4;
+}
+
+.active {
+	color: #ff784f;
+	font-weight: 600;
+	cursor: pointer;
+	text-decoration: none;
+	font-size: 1.2rem;
+}
+.active:hover {
+	color: #ff784f;
+    font-weight: 600;
+} */
+
+
+
+.navbarlinks {
+	color: #02827f !important;
+	/* background-color: #DDF7DE; */
+	padding-left: 0rem;
+}
+
+.activetextcolor {
+	color: #ff784f;
+	font-weight: 600;
+	cursor: pointer;
+	text-decoration: none;
+	font-size: 1.2rem;
+}
+
+.textcolor {
+	color: #02827f !important;
+	font-weight: 600 !important;
+	font-size: 1.2rem;
+}
+
+.textcolor:hover {
+	color: #ff784f !important;
+	font-weight: 600 !important;
+}

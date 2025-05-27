@@ -1,0 +1,65 @@
+/* .rightpanel {
+    text-align: center;
+    padding-top: 0px;
+} */
+
+.signupbutton {
+	background: #ff784f;
+	color: #fff;
+}
+
+.labelcolor {
+	float: left;
+	color: #01345b;
+}
+
+.signincolor {
+	color: #01345b;
+	font-size: 2rem;
+	margin-bottom: 0.5rem;
+	font-weight: 450;
+	text-align: center;
+}
+
+/* .formcard{
+    margin-left: 0rem;
+    margin-right: 0rem;
+    text-align: center;
+} */
+
+/* @media only screen and (min-width:600){
+    .formcard{
+        margin-left: 0rem;
+    }
+} */
+
+.starcolor {
+	color: red;
+	font-weight: bold;
+}
+
+.memberlinkcolor {
+	float: left;
+}
+
+.errorcolor {
+	float: left !important;
+}
+
+.btncolor {
+	border: none;
+	background-color: transparent;
+	color: #fff;
+	width: 100%;
+}
+
+.eye {
+	margin-right: 0.5rem;
+	float: right;
+	margin-top: -3rem;
+	cursor: pointer;
+}
+
+.formcontrolinput {
+	margin-bottom: 1rem;
+}

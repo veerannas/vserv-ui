@@ -1,0 +1,132 @@
+.wrimagecardtext {
+    padding-top: 0.5rem;
+    color: #888585;
+}
+
+.wrimagecardtitle {
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    color: #02827f;
+}
+
+.wrimagecard {
+    margin-bottom: 0.5rem;
+    font-size: 2.5rem;
+    line-height: 1.2;
+    margin-top: 0;
+    color: #02827f;
+}
+
+.wrimagecardcontent {
+    padding-left: 3.5rem;
+    margin-top: -0.3rem;
+    font-weight: 500;
+}
+
+.wrimagecardheading {
+    font-size: 2.5rem;
+    padding: 1%;
+}
+
+.iconcolor {
+    height: 35px;
+    width: 35px;
+    margin-right: 1rem;
+}
+
+.headeroverview {
+    color: #02827f;
+    font-family: Calibri;
+}
+
+.labelfont {
+    font-family: Segoe UI;
+}
+
+.formcontrolcancel {
+    background: #01345b;
+    border-color: #01345b;
+    font-weight: 600;
+}
+
+.formcontrolsave {
+    color: #01345b;
+    background: #ffff;
+    font-weight: 600;
+    float: center;
+}
+
+.formcontrolback {
+    background: #ffff;
+    border-color: #01345b;
+    font-weight: 600;
+    color: #01345b;
+}
+
+.formcontrolnext {
+    color: #01345b;
+    background: #ffff;
+    border-color: #01345b;
+    font-weight: 600;
+    float: right;
+}
+
+.formcontrolbuttonright {
+    text-align: right;
+}
+
+.overview {
+    font-size: 1.5rem;
+    color: #02827f;
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+}
+
+.progresstext {
+    float: center;
+    color: #474747;
+    font-family: Yu Gothic UI;
+}
+
+.formcontroledit {
+    color: #01345b;
+    font-weight: 700;
+    float: right;
+    cursor: pointer;
+    font-size: 16px;
+    padding-right: 15px;
+    /* margin-top: -0.3rem; */
+}
+
+.tagbox {
+    padding: 3%;
+    border: 1.5px solid #bbb1b1;
+    margin-left: 3px;
+}
+
+.tagtext {
+    padding: 1%;
+    background: #e2f5f4;
+    border: 1px solid #fff;
+}
+
+.tagfa {
+    font-size: 14px;
+    float: right;
+    padding-top: 1%;
+}
+
+.selector {
+    width: 100%;
+}
+
+.rightimagecard {
+    margin-top: -0.6rem;
+}
+
+.buttonlook {
+    border-radius: 20px;
+    background-color: #fff;
+    border: 2px solid #6800f7;
+}

@@ -1,0 +1,81 @@
+/* .wrimagecardtext {
+	padding-top: 0.5rem;
+	color: #888585;
+	width: 165%;
+} */
+.wrimagecard {
+	margin-bottom: 0.5rem;
+	font-size: 2rem;
+	line-height: 1.5;
+	margin-top: 0;
+	color: #921C00;
+	font-weight: 500;
+}
+
+.wrimagecardcontent {
+	padding-left: 3rem;
+	margin-top: -0.3rem;
+	font-weight: 500;
+}
+.cardimg {
+	height: 24px;
+	width: 24px;
+	color: #921C00 !important;
+}
+.wrimagecarmaindheading {
+	position: absolute;
+	margin-bottom: 0.5rem;
+	line-height: 1.5;
+	margin-top: rem;
+	margin-left: 1rem;
+	color: #921C00;
+}
+.incomewrimagecard {
+	height: 155px;
+}
+.subtext {
+	display: block;
+	font-size: 0.85rem;
+	color: #888585;
+}
+
+.wrimagecardtext {
+	padding-top: 0.4rem;
+	color: #921C00;
+	font-size: 1.2rem;
+	width: 165%;
+	font-weight: bold;
+}
+
+.wrimagecardtextright {
+	float: right;
+	font-size: 2.5rem;
+	margin-top: -0.8rem;
+    color: #921c00;
+}
+
+.wrimagecardnumbertext{
+    font-size: 2.5rem;
+	color: #01345b;
+	font-weight: 500;
+}
+
+.appointmentgraphcol{
+	height: 500px;
+	/* width: 600px; */
+	border: 1px solid #6c757d;
+	padding-left: 0px;
+	padding-right: 0px;
+	box-shadow: 0px 4px 7px grey;
+	margin-left: 25px;
+}
+
+.businessgraphcol{
+	height: 500px;
+	/* width: 600px; */
+	border: 1px solid #6c757d;
+	padding-left: 0px;
+	padding-right: 0px;
+	box-shadow: 0px 4px 7px grey;
+	margin-left: 50px;
+}

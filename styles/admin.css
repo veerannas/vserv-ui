@@ -1,0 +1,128 @@
+/* .wrimagecard {
+	margin-bottom: 0.5rem;
+	font-size: 2.5rem;
+	line-height: 1.2;
+	margin-top: 0;
+	color:#921C00;
+} */
+
+.wrimagecardcontent {
+	padding-left: 3.5rem;
+	margin-top: -0.3rem;
+	font-weight: 500;
+}
+
+.wrimagecardheading {
+	font-size: 1.3rem;
+	position: absolute;
+	padding: 1%;
+	margin-left: 1rem;
+}
+
+.wrimagecardtitle {
+	margin-bottom: 0.5rem;
+	font-weight: 500;
+	line-height: 1.2;
+	color: #02827f;
+}
+
+.wrimagecardtextcolor {
+	color: #ff3b00;
+}
+
+.faStatusCircle {
+	border: black;
+	color: green;
+}
+
+.progressbar {
+	text-align: inherit;
+}
+
+.progressbarinactive {
+	text-align: inherit;
+	color: grey;
+}
+
+.actionFormatter {
+	display: inline-flex;
+}
+.inactivecompany{
+	color: gray;
+	font-weight: 500;
+}
+
+
+.businessaccount {
+	background-color: #921C00 !important;
+	border:1px solid #921C00 !important;
+	color: #fff !important;
+	font-weight: 800 !important;
+	margin-right: 0.5rem !important;
+	margin-left: 0rem !important;
+}
+
+.listingbutton {
+	border: 1px solid #921C00 !important;
+	color: #921C00 !important;
+	font-weight: 500 !important;
+	/* /* padding: 0.5rem; */
+    margin-right: 0.5rem !important ; 
+	background-color: #fff !important;
+}
+/* .listingButton:hover{
+	-webkit-transform: scale(1.1);
+    background: #921C00;
+	border:1px solid #921C00;
+} */
+.listingNumber {
+	padding-left: 1rem;
+}
+
+
+.activeservice {
+	color: #ff784f;
+	font-weight: 500;
+}
+
+.activestatus {
+	color: #0a8615;
+	font-weight: 500;
+}
+
+.modalheading{
+	text-align: center;
+}
+.modalButton{
+	color: white;
+	background-color: #921C00;
+	border: 1px #921C00;
+}
+.activecompany {
+	color: #01345b;
+	font-weight: 500;
+	cursor: pointer;
+}
+.admincolor{
+	color: #921C00 !important;
+	font-weight: 700 !important;
+}
+
+.graph-header{
+    width: initial !important;
+    height: 50px;
+    line-height: 50px;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #921C00;
+    background-color: lightgray;
+    text-align: center;
+}
+
+.card-box{
+    margin-left: 2.8rem !important;
+}
+
+.graph-row{
+    margin-right: -4.5rem !important;
+}

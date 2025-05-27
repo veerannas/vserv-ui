@@ -1,0 +1,33 @@
+.cardstitle {
+	font-size: 26px;
+	font-weight: bold;
+	color: #01345b !important;
+	display: inline-block;
+	position: relative;
+	margin: 10px 10px 0 0;
+	padding: 5px 10px;
+}
+
+.cardstitle::after {
+	content: '';
+	height: 1px;
+	width: 70%;
+	background-color: #000;
+	position: absolute;
+	bottom: -0.5rem;
+	left: 50%;
+	-webkit-transform: translate(-50%);
+	transform: translate(-50%);
+	top: 48px;
+}
+
+.cardswrapper {
+	overflow: hidden;
+	text-align: center;
+	background-color: #ffff;
+	height: 80px;
+}
+
+.textcolor {
+	color: #01345b !important;
+}

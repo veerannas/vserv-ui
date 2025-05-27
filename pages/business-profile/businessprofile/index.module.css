@@ -1,0 +1,36 @@
+.wrimagecardtext {
+    padding-top: 0.5rem;
+    color: #888585;
+}
+
+.wrimagecardtitle {
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    color: #02827f;
+}
+
+.wrimagecard {
+    margin-bottom: 0.5rem;
+    font-size: 2.5rem;
+    line-height: 1.2;
+    margin-top: 0;
+    color: #02827f;
+  }
+
+.wrimagecardcontent {
+    padding-left: 3.5rem;
+    margin-top: -0.3rem;
+    font-weight: 500;
+}
+
+.wrimagecardheading {
+    font-size: 2.5rem;
+    padding: 1%;
+  }
+
+  .iconcolor {
+    height: 35px;
+    width: 35px;
+    margin-right: 1rem;
+  }

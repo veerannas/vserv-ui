@@ -1,0 +1,129 @@
+.cards {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	color: #063f7b;
+}
+
+.customcards {
+	box-shadow: 0 0 #000 !important;
+	margin-right: 0px;
+	margin-left: 0px;
+}
+
+.cardstitle {
+	font-size: 26px;
+	font-weight: bold;
+	color: #01345b !important;
+	display: inline-block;
+	position: relative;
+	margin: 10px 10px 0 0;
+	padding: 5px 10px;
+}
+
+.cardstitle::after {
+	content: '';
+	height: 1px;
+	width: 70%;
+	background-color: #000;
+	position: absolute;
+	bottom: -0.5rem;
+	left: 50%;
+	-webkit-transform: translate(-50%);
+	transform: translate(-50%);
+	top: 48px;
+}
+
+.cardswrapper {
+	overflow: hidden;
+	text-align: center;
+	width: 100% !important;
+}
+
+.cardstitlewrapper {
+	display: inline-block;
+	position: relative;
+}
+
+.cardsback {
+	padding-left: 35px;
+	padding-right: 35px;
+}
+
+.cardtextsize {
+	font-size: 16px;
+    font-weight: 500;
+}
+
+.resbut {
+	position: absolute;
+	top: 6%;
+	left: 94%;
+	-webkit-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	background-color: #ffff;
+	color: #0e0e0e;
+	font-size: 16px;
+	padding: 0px 5px;
+	border: none;
+	cursor: pointer;
+	text-align: center;
+}
+
+.headstl {
+	text-align: left;
+	color: #17517d;
+	font-weight: bold;
+}
+
+.cardtextmar {
+	margin-top: -13px;
+}
+
+.cardtextalign {
+	text-align: left;
+}
+
+.starmar {
+	margin-top: -3px;
+    margin-bottom: 6px;
+}
+
+.imgsiz {
+	height: 165px;
+}
+
+.cssribbon {
+	width: 33px;
+	height: 0px;
+	border-bottom: 13px solid #fff;
+	border-top: 13px solid #fff;
+	border-left: 6px solid transparent;
+	float: right;
+	margin-bottom: 0px;
+	font-weight: 500;
+	position: absolute;
+	right: 0px;
+	top: 6px;
+}
+
+.bookmarkdesign {
+	position: relative;
+	top: -9px;
+	text-align: center;
+}
+
+.heartcol {
+	color: #ff3838;
+}
+
+.headsize {
+	font-size: 22px;
+}
+.sectionpadding{
+	padding: 2%;
+}

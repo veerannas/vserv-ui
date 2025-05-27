@@ -1,0 +1,40 @@
+.navbarlinks {
+	color: #1c1c1c !important;
+	/* margin-right: 2rem; */
+	cursor: pointer !important;
+}
+
+.navbaricons {
+	color: #02827f;
+	margin-right: 0.7rem;
+}
+
+/* .active {
+background-color: #02827f;
+color: #fff !important;
+} */
+
+.activelink {
+	/* background-color: #02827f !important; */
+	color: #02827f !important;
+}
+
+.navbarlinks:focus {
+	/* background-color: #02827f; */
+	color: #02827f !important;
+}
+
+.textcolor {
+	color: #000 !important;
+	font-weight: 400;
+}
+
+.acitvetextcolor {
+	color: #ff784f !important;
+	font-weight: 500;
+}
+
+.textcolor:hover {
+	color: #ff784f !important;
+	font-weight: 400;
+}

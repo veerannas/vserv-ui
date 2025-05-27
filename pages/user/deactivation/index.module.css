@@ -1,0 +1,127 @@
+.wrimagecardtext {
+    padding-top: 0.5rem;
+    color: #888585;
+}
+
+.wrimagecardtitle {
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    color: #01345b;
+}
+
+.wrimagecardheading {
+    font-size: 1.3rem;
+    position: absolute;
+    padding: 1%;
+    margin-left: 1rem;
+}
+
+.wrimagecard {
+    margin-bottom: 0.5rem;
+    font-size: 2rem;
+    line-height: 1.5;
+    margin-top: 0;
+    color: #01345b;
+    font-weight: 500;
+}
+
+.wrimagecardcontent {
+    padding-left: 3rem;
+    margin-top: -0.3rem;
+    font-weight: 500;
+}
+
+.wrimagecardtextcolor {
+    color: #ff3b00;
+    cursor: pointer;
+}
+
+.labelcolor {
+    color: #000;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.formcontroledit {
+    color: #01345b;
+    font-weight: 700;
+    float: right;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.formcontrolsave {
+    background: #01345b;
+    border-color: #01345b;
+    font-weight: 600;
+}
+
+.cardimg {
+    width: 20%;
+}
+
+.formcontrolcancel {
+    color: #01345b;
+    background: #ffff;
+    font-weight: 600;
+}
+
+.buttonright {
+    float: right;
+}
+
+.labledisplay {
+    display: inline-block;
+    margin-bottom: 0.5rem;
+}
+
+.cardimgcenter {
+    text-align: center;
+}
+
+.formcontrolbuttonright {
+    text-align: right;
+}
+
+.error {
+    color: #dc3545;
+}
+
+.radiocheck {
+    padding: 0.3em !important;
+    -webkit-appearance: none !important;
+    outline: 0.1em solid black !important;
+    outline-offset: 0.1em !important;
+}
+
+.radiocheck:checked {
+    display: inline-block !important;
+    background-color: #000 !important;
+}
+
+.formlabelsize {
+    font-size: 20px;
+}
+
+.accountleft {
+    margin-left: 10%;
+}
+
+.labelcolor1 {
+    color: #01345b;
+    font-weight: 700;
+    font-size: 14px;
+}
+
+.activateButton {
+    color: #34a80a;
+    /* height: 17px; */
+    background-color: #fff;
+    text-decoration: underline;
+    border: #fff;
+}
+
+.deactivatecontainer {
+    text-align: center;
+}

@@ -1,0 +1,59 @@
+.wrimagecardtext {
+	padding-top: 0.5rem;
+	color: #888585;
+}
+.wrimagecard {
+	margin-bottom: 0.5rem;
+	font-size: 2rem;
+	line-height: 1.5;
+	margin-top: 0;
+	color: #01345b;
+	font-weight: 500;
+}
+
+.wrimagecardcontent {
+	padding-left: 3rem;
+	margin-top: -0.3rem;
+	font-weight: 500;
+}
+.cardimg {
+	height: 24px;
+	width: 24px;
+	color: #02827f !important;
+}
+.wrimagecarmaindheading {
+	position: absolute;
+	margin-bottom: 0.5rem;
+	line-height: 1.5;
+	margin-top: rem;
+	margin-left: 1rem;
+	color: #02827f;
+}
+.incomewrimagecard {
+	border-left: 10px solid #32cd32;
+	height: 95px;
+}
+.incomewrimagecard:hover {
+	border-left: 10px solid #32cd32;
+	box-shadow: 1px 1px 1px 1px #32cd32;
+}
+.subtext {
+	display: none;
+	font-size: 0.85rem;
+}
+.incomewrimagecard:hover .subtext {
+	display: block;
+}
+
+.wrimagecardtext {
+	padding-top: 0.4rem;
+	color: #02827f;
+	font-size: 1.2rem;
+	font-weight: bold;
+}
+
+.wrimagecardtextright {
+	float: right;
+	font-size: 2.5rem;
+	margin-top: -0.8rem;
+}
