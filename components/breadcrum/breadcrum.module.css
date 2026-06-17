@@ -1,0 +1,12 @@
+.breadcrumblinkcolor {
+    color: #01345b !important;
+}
+
+.breadcrumblinkcolor:hover {
+    color: #ff784f !important;
+    text-decoration: none !important;
+}
+
+.breadcrumbtypographycolor {
+    color: #ff784f !important;
+}

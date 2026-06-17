@@ -1,0 +1,24 @@
+.navbarlinks {
+	color: #02827f;
+	/* background-color: #DDF7DE; */
+}
+
+.navbaricons {
+	color: #02827f;
+	margin-right: 0.7rem;
+}
+
+.activetextcolor {
+	color: #ff784f;
+	/* background-color: #DDF7DE; */
+}
+
+.textcolor {
+	color: #02827f;
+	font-weight: 400;
+}
+
+.textcolor:hover {
+	color: #ff784f;
+	font-weight: 400;
+}

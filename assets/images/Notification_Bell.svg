@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="49.7" height="49" viewBox="0 0 49.7 49">
+  <g id="Group_3448" data-name="Group 3448" transform="translate(-867.893 -182.75)">
+    <path id="Icon_material-message" data-name="Icon material-message" d="M34.5,3H6.5A3.5,3.5,0,0,0,3.018,6.5L3,38l7-7H34.5A3.51,3.51,0,0,0,38,27.5V6.5A3.51,3.51,0,0,0,34.5,3ZM31,24H10V20.5H31Zm0-5.25H10v-3.5H31Zm0-5.25H10V10H31Z" transform="translate(879.592 193.75)" fill="#ff784f"/>
+    <g id="Group_3481" data-name="Group 3481">
+      <path id="Icon_material-notifications-active" data-name="Icon material-notifications-active" d="M11.868,6.248,9.595,3.975a16.573,16.573,0,0,0-6.55,12.479H6.224A13.426,13.426,0,0,1,11.868,6.248Zm19.7,10.206h3.179a16.674,16.674,0,0,0-6.55-12.479L25.937,6.248A13.505,13.505,0,0,1,31.565,16.454Z" transform="translate(865.348 179.513)" fill="#ff784f" stroke="#fff" stroke-linejoin="round" stroke-width="1"/>
+      <path id="Icon_material-notifications-active-2" data-name="Icon material-notifications-active" d="M28.256,17.263c0-4.881-2.607-8.966-7.154-10.047V6.135a2.385,2.385,0,1,0-4.769,0V7.216C11.771,8.3,9.179,12.366,9.179,17.263v7.949L6,28.391v1.59H31.436v-1.59l-3.179-3.179ZM18.718,34.75a2.785,2.785,0,0,0,.636-.064,3.226,3.226,0,0,0,2.289-1.876,3.192,3.192,0,0,0,.238-1.24H15.523A3.2,3.2,0,0,0,18.718,34.75Z" transform="translate(865.524 179.5)" fill="#01345b" stroke="#fff" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

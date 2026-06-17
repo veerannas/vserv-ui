@@ -1,0 +1,10 @@
+.rightpanel {
+    text-align: center;
+    padding-top: 0px;
+}
+
+.signupbutton {
+    float: right;
+    background: #ff784f;
+    color: #fff;
+}

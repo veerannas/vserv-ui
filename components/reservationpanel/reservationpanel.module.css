@@ -1,0 +1,109 @@
+.partitioncol {
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(153, 153, 153, 0.4);
+}
+
+.boxtitle {
+    text-align: center;
+    padding-top: 13px;
+    font-size: 20px;
+    color: #00325d;
+}
+
+.ressize {
+    font-size: 20px;
+}
+
+.real {
+    position: absolute;
+    clip: rect(2px 287px 26px 2px);
+    z-index: 2;
+    border-color: #efeee9;
+    width: 289px;
+}
+
+.peopsize {
+    font-size: 0.857rem;
+}
+
+.dateline {
+    clip: rect(2px 133px 29px 3px);
+    z-index: 2;
+    border-color: #efeee9;
+    width: 135px;
+    border-top: 1px solid #fff;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-bottom: 1px solid #efeee9;
+}
+
+.timecss {
+    position: absolute;
+    clip: rect(2px 129px 26px 2px);
+    z-index: 2;
+    border-color: #efeee9;
+    width: 131px;
+}
+
+.rowhet {
+    margin-top: 14px;
+}
+
+.findtable {
+    width: 100%;
+    background-color: #ff784f;
+    color: white;
+    font-weight: 500;
+    border: 2px solid #ff784f;
+}
+
+.box {
+    margin-top: 0px;
+    background-color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 0 2px 8px rgba(153, 153, 153, 0.4);
+}
+
+.fontcol {
+    color: #00325d;
+    font-weight: bold;
+}
+
+.formcontrol {
+    border-top: white;
+    border-left: white;
+    border-right: white;
+}
+
+.formControlPlaceHolder{
+    padding: 0rem;
+  }
+
+.timecontrol{
+    width: 100%;
+}
+
+/* .datecontrol{
+    width: 100%;
+} */
+
+.dateicon{
+    position: relative;
+    margin-right: 0.5rem;
+    float: right;
+    margin-top: -1.6rem;
+    /* cursor: pointer; */
+}
+
+.timeicon{
+    position: relative;
+    margin-right: 0.5rem;
+    float: right;
+    margin-top: -1.6rem;
+    /* cursor: pointer; */
+}
+
+.timecontrol{
+    width: 100%;
+}

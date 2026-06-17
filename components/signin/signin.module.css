@@ -1,0 +1,167 @@
+.leftpanel {
+    text-align: center;
+}
+
+.rightpanel {
+    background-color: #01345b !important;
+    color: #eff2f5;
+    text-align: center;
+}
+
+.modal-lg {
+    display: block;
+    width: 600px;
+    max-width: 100%;
+    height: 400px;
+    max-height: 100%;
+    position: fixed;
+    z-index: 100;
+    left: 50%;
+    top: 50%;
+}
+
+.modelconwid {
+    width: 200%;
+    margin-left: -260px;
+}
+
+.maincontent {
+    font-size: 25px;
+    font: bold;
+}
+
+.textsign {
+    font-size: 25px;
+    font: bold;
+}
+
+.rowheit {
+    height: 500px;
+}
+
+.signpad {
+    padding-top: 120px;
+}
+
+.signupbut {
+    width: 130px;
+    height: 30px;
+    font-size: 12px;
+}
+
+.textdet {
+    font-size: 12px;
+}
+
+.dot {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    display: inline-block;
+    border: 1px solid #64839b;
+    color: #06a7fc;
+    padding-top: 6px;
+}
+
+.textemail {
+    margin-top: -10px;
+    font-size: 13px;
+    color: #d7d6d4;
+}
+
+.inpcol {
+    background-color: #f6f4f2;
+    border: #f6f4f2;
+    height: 35px;
+    width: 55%;
+    padding-left: 35px;
+}
+
+.otpcol {
+    width: 35px;
+    height: 35px;
+    background-color: #f6f4f2;
+    border: #f6f4f2;
+}
+
+.navheit {
+    height: 70px;
+}
+
+.fakeinput {
+    position: relative;
+    width: 300px;
+}
+
+.fakeinput input {
+    border: none;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.fakeinputimg {
+    position: absolute;
+    top: 10px;
+    left: 8px;
+}
+
+.slider {
+    width: 300px;
+    height: 300px;
+    display: flex;
+    overflow-x: auto;
+}
+
+.slide {
+    width: 300px;
+    flex-shrink: 0;
+    height: 100%;
+}
+
+.dropdownbutton {
+    background-color: #01345b;
+    color: #fff;
+    padding: 6px;
+    font-size: 12px;
+    border: 1px solid #fff;
+    cursor: pointer;
+    width: 130px;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdowncontent {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+.dropdowncontent a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdowncontent a:hover {
+    background-color: #f1f1f1;
+}
+
+.dropdown:hover .dropdowncontent {
+    display: block;
+}
+
+.dropdown:hover .dropdownbutton {
+    background-color: #01345b;
+}
+
+.verticalalign {
+    padding: 20% 0;
+}

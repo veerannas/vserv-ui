@@ -1,0 +1,35 @@
+<svg id="logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="196" height="94" viewBox="0 0 196 94">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.687" y1="0.128" x2="0.599" y2="1.039" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5284b5"/>
+      <stop offset="0.85" stop-color="#2e2d52"/>
+      <stop offset="1" stop-color="#3b3b3b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.873" y1="0.329" x2="0.196" y2="0.722" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fdb101"/>
+      <stop offset="0.907" stop-color="#ff784f"/>
+      <stop offset="1" stop-color="#ff6464"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" x2="0.964" y2="1.139" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#9ea2c0"/>
+      <stop offset="0.207" stop-color="#99c5bb"/>
+      <stop offset="1" stop-color="#086d0b"/>
+    </linearGradient>
+  </defs>
+  <g id="Rectangle_1796" data-name="Rectangle 1796" fill="#fff" stroke="#707070" stroke-width="1">
+    <rect width="196" height="94" rx="5" stroke="none"/>
+    <rect x="0.5" y="0.5" width="195" height="93" rx="4.5" fill="none"/>
+  </g>
+  <text id="RESERVE" transform="translate(68 43)" fill="#01345b" stroke="#01345b" stroke-linejoin="round" stroke-width="2" font-size="22" font-family="Verdana" letter-spacing="0.025em"><tspan x="0" y="0">RESERVE</tspan></text>
+  <text id="HUBS" transform="translate(68.186 65)" fill="#b82525" stroke="#b32424" stroke-linejoin="round" stroke-width="3" font-size="24" font-family="Verdana" letter-spacing="0.03em"><tspan x="0" y="0">HUBS</tspan></text>
+  <g id="Ellipse_127" data-name="Ellipse 127" transform="translate(150.5 59.519)" fill="#ff8242" stroke="#000" stroke-width="1">
+    <ellipse cx="7" cy="4.5" rx="7" ry="4.5" stroke="none"/>
+    <ellipse cx="7" cy="4.5" rx="6.5" ry="4" fill="none"/>
+  </g>
+  <path id="Icon_metro-location" data-name="Icon metro-location" d="M14.319,1.928c-3.895,0-7.052,2.737-7.052,6.112,0,6.112,7.052,13.447,7.052,13.447s7.052-7.335,7.052-13.447c0-3.376-3.157-6.112-7.052-6.112Zm0,9.856A4.063,4.063,0,0,1,10,8.04,4.063,4.063,0,0,1,14.319,4.3,4.063,4.063,0,0,1,18.639,8.04,4.063,4.063,0,0,1,14.319,11.784Z" transform="translate(143.5 43.072)" fill="url(#linear-gradient)"/>
+  <g id="Group_2766" data-name="Group 2766" transform="translate(16 22)">
+    <path id="Icon_awesome-check" data-name="Icon awesome-check" d="M12.653,34.781.546,21.353a2.228,2.228,0,0,1,0-2.921L3.18,15.511a1.736,1.736,0,0,1,2.634,0l8.156,9.045L31.441,5.182a1.736,1.736,0,0,1,2.634,0L36.709,8.1a2.228,2.228,0,0,1,0,2.921L15.288,34.781A1.736,1.736,0,0,1,12.653,34.781Z" transform="translate(10.635 3.775)" fill="url(#linear-gradient-2)"/>
+    <path id="Icon_ionic-md-checkbox-outline" data-name="Icon ionic-md-checkbox-outline" d="M46.532,43.681H9.754V9.4h26.27V4.5H9.754A5.1,5.1,0,0,0,4.5,9.4V43.681a5.1,5.1,0,0,0,5.254,4.9H46.532a5.1,5.1,0,0,0,5.254-4.9V24.091H46.532Z" transform="translate(-2.5 -0.56)" fill="url(#linear-gradient-3)"/>
+    <path id="Polygon_14" data-name="Polygon 14" d="M6.5,0,13,9H0Z" transform="translate(37.699) rotate(90)" fill="#86b9a4"/>
+  </g>
+</svg>

@@ -1,0 +1,181 @@
+.resImage {
+    width: 100%;
+    height: 306px;
+}
+
+.fontfam {
+    font-family: BrandonText, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+    font-size: 14px;
+}
+
+.resImage {
+    width: 160%;
+    height: 400px;
+}
+
+.partition {
+    margin-top: -136px;
+}
+
+.partitioncol {
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(153, 153, 153, 0.4);
+    z-index: 100;
+}
+
+.partitionleftcol {
+    background-color: #fff;
+    z-index: 100;
+}
+
+.partitioncolres {
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(153, 153, 153, 0.4);
+    z-index: 100;
+    position: fixed;
+}
+
+.customnavbar {
+    color: black;
+}
+
+.starsize {
+    font-size: 20px;
+}
+
+.starrating {
+    margin-left: -76px;
+    margin-top: 4px;
+    font-weight: bold;
+}
+
+.feedimage {
+    width: 22px;
+    height: 22px;
+    margin-left: 20px;
+}
+
+.buttop {
+    border-radius: 20px;
+    background-color: #fff;
+    margin-left: 20px;
+}
+
+.deinfo {
+    text-align: justify;
+}
+
+.resbut {
+    position: absolute;
+    top: 14%;
+    left: 96%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #ffff;
+    color: #0e0e0e;
+    font-size: 16px;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+}
+
+.stickyreservation {
+    position: fixed;
+    top: 20px;
+}
+
+.stickyorderdelivery {
+    position: fixed;
+    top: 290px;
+    width: 320px;
+}
+
+.fontcol {
+    color: #00325d;
+    font-weight: bold;
+}
+
+.restaurantsize {
+    font-size: 35px;
+}
+
+.cssribbon {
+    width: 105px;
+    height: 0;
+    border-bottom: 20px solid #fff;
+    border-top: 20px solid #fff;
+    border-left: 15px solid transparent;
+    float: right;
+    margin-bottom: 20px;
+    font-size: 17px;
+    font-weight: 700;
+    position: absolute;
+    right: 0px;
+    top: 120px;
+}
+
+.bookmarkdesign {
+    position: relative;
+    top: -9px;
+    text-align: center;
+    right: -10px;
+}
+
+.heartcolor {
+    color: #ff3838;
+}
+
+.headsize {
+    font-size: 22px;
+}
+
+.margincover {
+    margin-top: 0px;
+}
+
+.navbarfixedtop {
+    top: 0px;
+    position: fixed;
+    background: #fff;
+    z-index: 100;
+}
+
+.containerarea {
+    padding-left: 5%;
+    padding-right: 5%;
+    top: -70px;
+    position: relative;
+}
+
+.rightpanel {
+    background-color: #fff;
+}
+
+.readmoreless {
+    color: #00325d;
+    font-weight: bold;
+}
+
+.companytitle {
+    color: #00325d;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.serviceheading {
+    color: #00325d;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.navlink {
+    cursor: pointer;
+    font-weight: 600;
+}
+
+
+/* .link:hover {
+    color: #ff784f;
+} */

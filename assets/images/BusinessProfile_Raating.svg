@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31.013" height="27.583" viewBox="0 0 31.013 27.583">
+  <g id="Group_3638" data-name="Group 3638" transform="translate(-393.628 -55.499)">
+    <path id="Icon_awesome-comment-alt" data-name="Icon awesome-comment-alt" d="M18.75,0H2.679A2.681,2.681,0,0,0,0,2.678V14.731A2.681,2.681,0,0,0,2.679,17.41H6.7v3.515a.5.5,0,0,0,.8.406l5.227-3.921H18.75a2.681,2.681,0,0,0,2.679-2.678V2.678A2.681,2.681,0,0,0,18.75,0Z" transform="translate(402.712 61.142)" fill="none" stroke="#02827f" stroke-width="1"/>
+    <path id="Icon_awesome-star" data-name="Icon awesome-star" d="M9.093.57,7,4.812l-4.681.683a1.026,1.026,0,0,0-.567,1.75l3.387,3.3-.8,4.662a1.025,1.025,0,0,0,1.487,1.08l4.188-2.2,4.188,2.2a1.026,1.026,0,0,0,1.487-1.08l-.8-4.662,3.387-3.3a1.026,1.026,0,0,0-.567-1.75l-4.681-.683L10.932.57a1.026,1.026,0,0,0-1.839,0Z" transform="translate(392.699 56)" fill="#02827f" stroke="#fff" stroke-width="1"/>
+    <g id="Icon_ionic-md-thumbs-up" data-name="Icon ionic-md-thumbs-up" transform="translate(409.569 64.201)">
+      <path id="Path_2502" data-name="Path 2502" d="M12.268,14.788h4.608a.983.983,0,0,0,.916-.627l1.53-3.628a1.026,1.026,0,0,0,.07-.375V9.124a1.182,1.182,0,0,0-1.013-1.195H15.186l.482-2.184.016-.161a.777.777,0,0,0-.222-.544L14.921,4.5,11.545,7.911a1.031,1.031,0,0,0-.295.726v5.144A1.01,1.01,0,0,0,12.268,14.788Z" transform="translate(-8.249 -4.5)" fill="none" stroke="#02827f" stroke-width="1"/>
+      <path id="Path_2503" data-name="Path 2503" d="M3.375,15.75H5.09v6H3.375Z" transform="translate(-3.375 -11.463)" fill="none" stroke="#02827f" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

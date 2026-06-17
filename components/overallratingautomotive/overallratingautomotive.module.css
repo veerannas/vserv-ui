@@ -1,0 +1,44 @@
+.starsize {
+    font-size: 15px;
+}
+
+.verticalline {
+    border-left: 1px solid #cecbcb;
+}
+
+.servicereview {
+    text-align: center;
+}
+
+.progressbar {
+    padding-top: 7px;
+}
+
+.reviewstar {
+    margin-top: -15px;
+}
+
+.reviewsection {
+    margin-top: -7px;
+    font-size: 9px;
+    font-weight: bold;
+}
+
+.servicesection {
+    margin-top: 27px;
+}
+
+.ratingreview {
+    margin-top: 13px;
+    text-align: center;
+}
+
+.reviewheading {
+    color: #00325d;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.reviewbutton {
+    float: right;
+}

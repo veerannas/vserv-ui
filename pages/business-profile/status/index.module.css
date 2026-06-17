@@ -1,0 +1,76 @@
+.wrimagecard {
+	margin-bottom: 0.5rem;
+	font-size: 2.5rem;
+	line-height: 1.2;
+	margin-top: 0;
+	color: #02827f;
+}
+.wrimagecardcontent {
+	padding-left: 3.5rem;
+	margin-top: -0.3rem;
+	font-weight: 500;
+}
+
+.statustitle {
+	font-size: 1.5rem;
+	color: #02827f;
+	font-weight: 500;
+	/* margin-left: 1rem; */
+	margin-bottom: 2rem;
+}
+.substatustitle {
+	font-size: 1.2rem;
+	color: #02827f;
+	font-weight: 500;
+	/* margin-left: 1rem; */
+}
+
+.iconcolor {
+	width: 35px;
+	height: 33px;
+	margin-right: 1rem;
+}
+.notificationcheckbox {
+	float: right;
+	cursor: pointer;
+	appearance: none;
+	zoom: 1.5;
+	color: orange;
+	/* zoom: 90; */
+}
+
+.labeltext {
+	font-family: 'Segoe UI';
+	/* margin-left: 1rem; */
+}
+.formcontrolbuttonright {
+	text-align: center;
+}
+.formcontrolsave {
+	color: #01345b;
+	background: #ffff;
+	font-weight: 600;
+	float: center;
+}
+.formcontrolcancel {
+	background: #01345b;
+	border-color: #01345b;
+	font-weight: 600;
+}
+.formcontrolback {
+	background: #ffff;
+	border-color: #01345b;
+	font-weight: 600;
+	color: #01345b;
+}
+.progresstext {
+	float: center;
+}
+
+.notficationright {
+	float: right;
+}
+
+.rightimagecard {
+	margin-top: -0.3rem;
+}

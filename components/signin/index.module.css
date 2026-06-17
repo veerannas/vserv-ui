@@ -1,0 +1,99 @@
+/* .registerform{
+    text-align: center;
+} */
+
+.signupcolor{
+    text-align: center;
+    /* text-decoration: underline; */
+}
+
+.footer{
+    margin-left: 25.8rem;    
+}
+
+.logocolor{
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.line{
+    box-shadow: 3px 2px 3px gainsboro;
+}
+
+.membercolor{
+    text-align: center;
+    text-decoration: underline;
+}
+
+.maincard{
+    margin: auto !important;
+    padding-right: 35px;
+    padding-left: 0px;
+}
+
+.leftcol{
+     padding-right: 0px; 
+     padding-left: 0px;
+}
+
+.rightcol{
+    padding-right: 0px; 
+    padding-left: 0px;
+}
+
+.signincol{
+    border: 1px solid #d3d3d3;
+    padding: 1.5rem;
+    border-radius: 1rem;
+    box-sizing: content-box;
+    box-shadow: 3px 3px 3px 3px #d3d3d3;
+    width: 100%;
+    margin-top: 3rem;
+}
+
+.signupcol{
+    border: 1px solid #d3d3d3;
+    padding: 2.5rem;
+    border-radius: 1rem;
+    box-sizing: content-box;
+    box-shadow: 3px 3px 3px 3px #d3d3d3;
+    width:100%;
+}
+
+
+.logintextcolor{
+    color: #01345b;
+    font-size: 2rem;
+    /* margin-bottom: 15px; */
+    font-weight: 450;
+    text-align: center !important;
+    
+}
+
+
+.signuptextcolor{
+    color: #01345b;
+    font-size: 2rem;
+    margin-bottom: 15px;
+    font-weight: 450;
+    text-align: center !important;
+    
+}
+
+.backcolor{
+    float: left;
+    background: #ffff;
+    border-color: #01345b;
+    font-weight: 600;
+    color: #01345b;
+    height: 25px;
+    line-height: 13px;
+}
+
+/* .signinmain{
+    margin-top: 7rem;
+} */
+
+/* .signupmain{
+    margin-top: 0.5rem;
+} */

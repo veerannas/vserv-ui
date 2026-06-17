@@ -1,0 +1,98 @@
+.wrimagecard {
+	margin-bottom: 0.5rem;
+	font-size: 2.5rem;
+	line-height: 1.2;
+	margin-top: 0;
+	color: #02827f !important;
+}
+
+.incomewrimagecard {
+	border-left: 10px solid #32cd32;
+	height: 95px;
+}
+.incomewrimagecard:hover {
+	border-left: 10px solid #32cd32;
+	box-shadow: 1px 1px 1px 1px #32cd32;
+}
+
+.totalappointmentwrimagecard {
+	border-left: 10px solid #ffa500;
+	height: 95px;
+}
+.totalappointmentwrimagecard:hover {
+	border-left: 10px solid #ffa500;
+	box-shadow: 1px 1px 1px 1px #ffa500;
+}
+
+.cancelappointmentwrimagecard {
+	border-left: 10px solid #ff6347;
+	height: 95px;
+}
+.cancelappointmentwrimagecard:hover {
+	border-left: 10px solid #ff6347;
+	box-shadow: 1px 1px 1px 1px #ff6347;
+}
+
+.askmewrimagecard {
+	border-left: 10px solid #02827f;
+	height: 95px;
+}
+.askmewrimagecard:hover {
+	border-left: 10px solid #02827f;
+	box-shadow: 1px 1px 1px 1px #02827f;
+}
+
+.wrimagecardcontent {
+	padding-left: 2.9rem;
+	margin-top: 0.9rem;
+	font-weight: 500;
+}
+
+.wrimagecardtext {
+	padding-top: 0.4rem;
+	color: #02827f;
+	font-size: 1.2rem;
+	font-weight: bold;
+}
+
+.wrimagecardtextright {
+	float: right;
+	font-size: 2.5rem;
+	margin-top: -0.8rem;
+}
+
+.wrimagecardtitle {
+	margin-bottom: 0.5rem;
+	line-height: 1.2;
+	color: #707070;
+}
+
+.wrimagecard-topimage_title {
+	height: 30px !important;
+}
+
+.wrimagecarmaindheading {
+	position: absolute;
+	margin-bottom: 0.5rem;
+	line-height: 1.5;
+	margin-top: rem;
+	margin-left: 1rem;
+	color: #02827f;
+}
+
+.cardimg {
+	height: 24px;
+	width: 24px;
+	color: #02827f !important;
+}
+
+.chartheadingcolor {
+	background-color: #eaeaea;
+	font-size: 20px;
+	height: 3rem;
+	line-height: 3rem;
+	color: #02827f;
+	font-weight: bold;
+	border-radius: 5px;
+	margin-top: 3rem;
+}

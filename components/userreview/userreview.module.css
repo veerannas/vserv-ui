@@ -1,0 +1,14 @@
+.starratingleft {
+    float: right;
+}
+
+.replysection{
+    margin-top: -5%;
+    margin-left: 46px;
+}
+
+.paginate{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

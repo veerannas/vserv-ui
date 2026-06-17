@@ -1,0 +1,10 @@
+.formcontrolbutton {
+    background: white;
+    color: black;
+    border-color: beige;
+    /* padding: 0%; */
+}
+
+.textright {
+    text-align: right;
+}

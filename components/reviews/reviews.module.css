@@ -1,0 +1,26 @@
+.starsize {
+	font-size: 15px;
+}
+
+.starrating {
+	/* margin-left: -76px; */
+	/* margin-top: 4px; */
+	font-weight: bold;
+}
+
+.feedimage {
+	width: 22px;
+	height: 22px;
+	margin-left: 20px;
+}
+.starratingcolor {
+	color: #ffc107;
+}
+
+.review {
+	float: right;
+	padding-right: 100px;
+	font-size: 12px;
+	padding-top: 3px;
+	font-weight: bold;
+}

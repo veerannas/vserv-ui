@@ -1,0 +1,203 @@
+.wrimagecard {
+	margin-bottom: 0.5rem;
+	font-size: 2.5rem;
+	line-height: 1.2;
+	margin-top: 0;
+	color: #02827f;
+}
+
+.wrimagecardcontent {
+    padding-left: 3.5rem;
+    margin-top: -0.3rem;
+    font-weight: 500;
+  }
+.wrimagecardheading {
+	font-size: 1.3rem;
+	position: absolute;
+	padding: 1%;
+	margin-left: 1rem;
+}
+.wrimagecardtitle {
+	margin-bottom: 0.5rem;
+	font-weight: 500;
+	line-height: 1.2;
+	color: #02827f;
+}
+.wrimagecardtextcolor {
+	color: #ff3b00;
+}
+
+.iconcolor {
+    height: 35px;
+    width: 35px;
+    margin-right: 1rem;
+
+  }
+
+.address {
+	padding: 1rem;
+	color: #02827f;
+	font-size: 2rem;
+	padding-left: 0rem;
+}
+.leftPanelEdit {
+	/* padding: 2.4rem; */
+	color: #01345b;
+	font-weight: 600;
+	/* font-size: 1.4rem; */
+	border: none;
+	background-color: #ffff;
+}
+.formcontrolcancel {
+	background: #01345b;
+	border-color: #01345b;
+	font-weight: 600;
+}
+.formcontrolsave {
+	color: #01345b;
+	background: #ffff;
+	font-weight: 600;
+	float: right;
+}
+
+.editCol {
+	padding: 1.6rem;
+}
+.formControlPlaceHolder {
+	/* padding-top: 0.8rem ; */
+	border: 1px solid gray;
+	padding: 0rem;
+	padding-top: 0.5rem;
+	/* width: inherit; */
+	/* padding-left: 0.5rem; */
+}
+.singleSlotReservation,
+.singleSlotPeriod {
+	border: 1px solid gray;
+	padding: 0rem;
+	padding-top: 0.5rem;
+	width: inherit;
+}
+.ssrCol {
+	padding-top: 0.5rem;
+}
+.rstCol {
+	font-size: 1.2rem;
+	color: #02827f;
+}
+.toCol {
+	/* border: 1px solid gray; */
+	padding-left: 2rem;
+	/* padding-top: 0.5rem; */
+}
+.formcontrolbuttonright {
+	float: right;
+	/* margin-left: 20rem; */
+}
+.btnCancel {
+	background: #01345b;
+	border-color: #01345b;
+	font-weight: 600;
+}
+.btnSave {
+	color: #01345b;
+	background: #ffff;
+	font-weight: 600;
+}
+.getAddPara,
+.editDiv {
+	font-family: 'Calibiri';
+	/* font-size: 1.2rem; */
+	font-weight: 500;
+}
+.countrySelect {
+	/* border-right: none;
+  border-top: none;
+  border-left: none; */
+	border: none;
+}
+
+.timeSelectCol {
+	display: flex;
+	/* padding-right: 1rem; */
+}
+.labelFrom {
+	padding: 0.8rem;
+	font-size: 0.8rem;
+	/* padding-top: 0.5rem; */
+}
+.labelTo {
+	padding: 0.8rem;
+	font-size: 0.8rem;
+}
+.notificationcheckbox {
+	padding: 0.6rem;
+}
+.checkBoxCol {
+	padding-left: 1.2rem !important;
+}
+.checkBoxColumn {
+	padding-left: 14.7rem !important;
+}
+.formcheckBoxColumn {
+	padding-left: 10.2rem !important;
+}
+.weekday {
+	padding-top: 0.4rem;
+}
+.reservationCol {
+	color: #02827f;
+	font-size: 1.2rem;
+	font-weight: 600;
+}
+.operationCol {
+	color: #02827f;
+	font-size: 1.2rem;
+	font-weight: 600;
+}
+.addBreak {
+	background-color: #01345b;
+	color: #fff;
+	font-weight: 800;
+	margin: 1rem;
+	margin-left: 0rem;
+}
+.facircle {
+	margin-right: 0.5rem;
+}
+.timeFormatter {
+	display: flex;
+}
+.startTimePlaceHolder,
+.endTimePlaceHolder {
+	margin-bottom: 1.2rem;
+	border: 1px solid gray;
+	padding: 0rem;
+	padding-top: 0.5rem;
+}
+.actionformatter {
+	display: flex;
+}
+
+.editSpan {
+	float: right;
+	cursor: pointer;
+	padding-right: 15px;
+}
+
+.rightimagecard{
+    margin-top: -0.3rem;
+}
+
+.scroll{
+	overflow-x: hidden;
+	overflow-y: scroll;
+	height: 455px;
+}
+
+.checkBoxColumn {
+	padding-left: 14.7rem !important;
+}
+.formcheckBoxColumn {
+	padding-left: 10.5rem !important;
+}

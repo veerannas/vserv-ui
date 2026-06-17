@@ -1,0 +1,13 @@
+.formcontrolback {
+    background: #ffff;
+    border-color: #01345b;
+    font-weight: 600;
+    color: #01345b;
+}
+.formcontrolnext {
+    color: #01345b;
+    background: #ffff;
+    border-color: #01345b;
+    font-weight: 600;
+    float: right;
+}

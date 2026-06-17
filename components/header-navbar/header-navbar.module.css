@@ -1,0 +1,185 @@
+.navlink {
+	font-weight: 500;
+}
+
+.navlink:hover {
+	color: #ff784f !important;
+	font-weight: 500;
+	text-decoration: none;
+}
+
+.navbarheight {
+	padding: 15px;
+}
+
+.btnLogin {
+	border-radius: 20px !important;
+	color: #fff;
+	background-color: #02827f;
+	width: 85px;
+	font-weight: 500;
+	border: 1px solid #02827f;
+}
+
+.signbtnLogin {
+	border-radius: 20px !important;
+	color: #fff;
+	background-color: #ff784f;
+	width: 85px;
+	font-weight: 500;
+	border: 1px solid #ff784f;
+}
+
+.costomlogo {
+	height: 45px;
+	vertical-align: bottom;
+}
+
+.costomlogoname {
+	height: 51px;
+	width: 200px;
+}
+
+.dropdown {
+	position: relative;
+	display: inline-block;
+}
+
+.dropdownmenu {
+	display: none;
+	position: absolute;
+	background-color: #fff;
+	min-width: 100%;
+	box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+	z-index: 1;
+	cursor: pointer;
+}
+
+.dropdownmenu a {
+	color: black;
+	padding: 2px 16px;
+	text-decoration: none;
+	display: block;
+	font-size: 13px;
+}
+
+.dropdownmenu a:hover {
+	background-color: #fff;
+}
+
+.dropdown:hover .dropdownmenu {
+	display: block;
+}
+
+.dropdown:hover .dropdownbutton {
+	background-color: #fff;
+}
+
+.dropdownbutton {
+	background-color: #fff;
+	color: rgb(10, 0, 0);
+	font-size: 12px;
+	border: 1px solid #fff;
+	cursor: pointer;
+	width: 125px;
+	font-size: 16px;
+	font-weight: 500;
+}
+
+.dropdownitem {
+	color: #01345b !important;
+	font-weight: 500 !important;
+}
+
+.dropdownitemlogout {
+	color: #ff784f !important;
+	font-weight: 500 !important;
+}
+
+.businessaccount {
+	border-radius: 20px !important;
+	color: #fff;
+	background-color: #02827f;
+	width: 131px;
+	font-weight: 500;
+	border: 1px solid #fff;
+	/* padding: 3px; */
+	padding: 2%;
+}
+
+.profiledropdown {
+	position: relative;
+	display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+
+.dropdowncontent {
+	display: none;
+	position: absolute;
+	background-color: #640303;
+	min-width: 160px;
+	box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+	z-index: 1;
+	top: 0;
+	left: 124px;
+	/* Here I have set the width (minus padding) of the dropdown-content */
+}
+
+/* Links inside the dropdown */
+
+.dropdowncontent a {
+	color: black;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+}
+
+/* .items{display: none ;} */
+
+/* Change color of dropdown links on hover */
+
+.dropdowncontent a:hover {
+	background-color: #d90909;
+}
+
+/* Show the dropdown menu on hover */
+
+.profiledropdown :focus .dropdowncontent {
+	display: block;
+}
+
+.dropdownmenuitem {
+	left: 8.9rem;
+	top: 0rem;
+	box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+	color: #212529;
+	background-color: #fff;
+}
+
+.dropdownmenuitem:hover {
+	color: #212529;
+	background-color: #fff;
+}
+
+.dropdowntext {
+	background-color: transparent !important;
+	color: #01345b !important;
+	border: none;
+	margin-left: 0.7rem;
+	font-weight: 648;
+}
+
+.menutextcolor:hover {
+	color: #808080;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+
+/* .profiledropdown:hover .dropbtn {
+	background-color: #d60707;
+} */
+
+/* #dropdown-basic:hover .dropdownmenuitem{
+	display: block !important;
+} */

@@ -1,0 +1,80 @@
+.wrimagecard {
+    margin-bottom: 0.5rem;
+    font-size: 2.5rem;
+    line-height: 1.2;
+    margin-top: 0;
+    color: #01345b;
+}
+
+.wrimagecardcontent {
+    padding-left: 3.5rem;
+    margin-top: -0.5rem;
+    font-weight: 500;
+}
+
+.searchbar {
+    float: right;
+    /* box-shadow: 2px 2px 2px lightgray  !important; */
+}
+
+.calendercard {
+    margin-top: 3.7rem;
+}
+
+.historygreentextcolor {
+    color: #247905;
+    font-style: normal;
+    text-align: center;
+    font-size: 0.8rem;
+    border: 1px solid #247905;
+    padding: 3%;
+    font-weight: 600;
+}
+
+.historyredtextcolor {
+    color: #ff0000;
+    font-style: normal;
+    text-align: center;
+    font-size: 0.8rem;
+    border: 1px solid #ff0000;
+    padding: 3%;
+    font-weight: 600;
+}
+
+.moneygreentextcolor {
+    font-family: Helvetica Neue;
+    font-size: 0.9rem;
+    font-style: normal;
+    color: #247905;
+    text-align: center;
+}
+
+.moneyredtextcolor {
+    font-family: Helvetica Neue;
+    font-size: 0.9rem;
+    font-style: normal;
+    color: #ff0000;
+    text-align: center;
+}
+
+.servicetextcolor {
+    color: #ff784f;
+    font-weight: 600;
+}
+
+.servicecolor {
+    color: #01345b;
+    font-weight: 600;
+}
+
+.accept {
+    text-align: center;
+    color: #247905;
+    font-weight: 600;
+}
+
+.reject {
+    text-align: center;
+    color: #ff0000;
+    font-weight: 600;
+}

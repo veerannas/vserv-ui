@@ -1,0 +1,75 @@
+.searchboxspacing {
+    padding-left: 5px;
+    padding-right: 5px;
+    padding: 2%;
+}
+
+.searchbox {
+    margin: auto;
+    padding-right: 5px;
+    padding-left: 5px;
+    border: 1px;
+    padding: 15px;
+}
+
+.searchboxspacing1 {
+    position: relative;
+    margin: 0 20px;
+    direction: rtl;
+    width: 200px;
+}
+
+.inputdate {
+    height: 38px;
+    margin: 0;
+    padding-right: 100px;
+}
+
+.calendarimage {
+    width: 20px;
+    height: 22px;
+    float: right;
+    margin-right: 6px;
+    margin-top: -30px;
+    position: relative;
+    z-index: 2;
+}
+
+.btnLogin {
+    border-radius: 50px !important;
+    padding: 0.5rem 1.6rem;
+    font-size: 0.64rem;
+    cursor: pointer;
+    color: #fff;
+    margin: 0.375rem;
+    text-transform: uppercase;
+    word-wrap: break-word;
+    white-space: normal;
+    cursor: pointer;
+    border: 0;
+    border-radius: 0.125rem;
+    -webkit-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+    -webkit-transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out;
+}
+
+.navheit {
+    height: 88px;
+}
+
+.navpad {
+    padding-top: 23px;
+}
+
+.searchbutton {
+    background-color: #ff784f;
+    border-color: #ff784f;
+    color: #ffff;
+    font-weight: 500;
+}
+.searchboxpadding{
+    padding-top: 4%;
+}

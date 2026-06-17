@@ -1,0 +1,60 @@
+.wrimagecardtext {
+	padding-top: 0.5rem;
+	color: #888585;
+}
+
+.wrimagecardtitle {
+	margin-bottom: 0.5rem;
+	font-weight: 500;
+	line-height: 1.2;
+	color: #01345b;
+}
+
+.wrimagecardheading {
+	font-size: 1.3rem;
+	position: absolute;
+	padding: 1%;
+	margin-left: 1rem;
+}
+
+.wrimagecard {
+	margin-bottom: 0.5rem;
+	font-size: 2rem;
+	line-height: 1.5;
+	margin-top: 0;
+	color: #01345b;
+	font-weight: 500;
+}
+
+.wrimagecardcontent {
+	padding-left: 3rem;
+	margin-top: -0.3rem;
+	font-weight: 500;
+}
+
+.wrimagecardtextcolor {
+	color: #ff3b00;
+}
+
+.card {
+	box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%);
+	overflow: auto !important;
+}
+
+.mdbcolor {
+	background-color: #1c2a48 !important;
+}
+
+.servicecolor {
+	color: #01345b;
+	font-weight: 600;
+}
+
+.faheartcenter {
+	text-align: center;
+}
+
+.modalfacolor {
+	color: #01345b;
+	font-weight: 700;
+}

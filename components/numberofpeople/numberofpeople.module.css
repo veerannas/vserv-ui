@@ -1,0 +1,19 @@
+.rightside{
+  margin-left: 34rem;
+  margin-bottom: -11.2rem;
+}
+    .formcontrolsave{
+      color: #01345b;
+        background: #ffff;
+        font-weight: 600;
+        margin-left: 9rem;
+        margin-top: -4rem;
+    }
+    .formcontrolcancel{
+      background: #01345b;
+      border-color: #01345b;
+      font-weight: 600;
+      margin-top: -10rem;
+      margin-left: 12rem;
+    }
+    

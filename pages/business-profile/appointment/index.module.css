@@ -1,0 +1,176 @@
+.wrimagecardtext {
+    padding-top: 0.5rem;
+    color: #888585;
+}
+
+.wrimagecardtitle {
+    margin-bottom: 0.5rem;
+    font-weight: 500;
+    line-height: 1.2;
+    color: #02827f;
+}
+
+.wrimagecardheading {
+    font-size: 1.3rem;
+    position: absolute;
+    padding: 1%;
+    margin-left: 1rem;
+}
+
+.wrimagecard {
+    margin-bottom: 0.5rem;
+    font-size: 2rem;
+    line-height: 1.5;
+    margin-top: 0;
+    color: #02827f;
+    font-weight: 500;
+}
+
+.wrimagecardcontent {
+    padding-left: 2.8rem;
+    margin-top: -0.3rem;
+    font-weight: 500;
+}
+
+.wrimagecardtextcolor {
+    color: #ff3b00;
+}
+
+.card {
+    box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%);
+    overflow: auto !important;
+}
+
+.mdbcolor {
+    background-color: #1c2a48 !important;
+}
+
+.servicecolor {
+    color: #01345b;
+    font-weight: 600;
+}
+
+.fabellcenter {
+    text-align: center;
+}
+
+.fabellsize {
+    font-size: 136%;
+}
+
+.formcontroloptgroup {
+    color: #ff784f;
+    font-size: 14px;
+}
+
+.formcontroloption {
+    color: #00325d;
+}
+
+.formcontrolsave {
+    background: #01345b;
+    border-color: #01345b;
+    font-weight: 600;
+}
+
+.formcontrolcancel {
+    color: #01345b;
+    background: #ffff;
+    font-weight: 600;
+}
+
+.formcontrolbuttonright {
+    text-align: right;
+}
+
+.formcontrolcontact {
+    /* height: 6rem !important; */
+}
+
+.modalfacolor {
+    color: #01345b;
+    font-weight: 700;
+}
+
+.bordernone {
+    border: none !important;
+}
+
+.modalcontrolborder {
+    display: block;
+    width: 100%;
+    /* height: -webkit-calc(1.5em + .75rem + 2px); */
+    /* height: calc(1.5em + .75rem + 2px); */
+    padding: 0.4rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease;
+}
+
+.modaltabletdwidth {
+    width: 25%;
+}
+
+.modaltabletdwidthmail {
+    width: 35%;
+}
+
+.modalheader {
+    background: #01345b;
+    color: white;
+    font-size: 20px;
+}
+
+.cancelappointment {
+    background: white;
+    color: red;
+    border-color: red;
+}
+
+.buttonright {
+    float: right;
+}
+
+.servicemenucolor {
+    color: #ff784f;
+    font-weight: 600;
+}
+
+.cancelcolor {
+    color: #ff784f;
+    text-align: center;
+    border: 2px solid #ff784f;
+    padding: 1%;
+    font-size: 12px;
+    font-weight: 600;
+    margin-left: 38%;
+    /* padding-left: 21%; */
+    width: 50%;
+}
+
+.actionbutton {
+    background: #fff;
+    border: 2px solid #01345b;
+    font-size: 12px;
+    font-weight: 600;
+    color: #01345b;
+}
+
+.remainderbell {
+    text-align: center;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.error {
+    color: #ff3b00;
+}
+.remaindermargin{
+    margin-left: -28%;
+}

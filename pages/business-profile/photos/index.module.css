@@ -1,0 +1,101 @@
+.wrimagecard {
+    margin-bottom: 0.5rem;
+    font-size: 2.5rem;
+    line-height: 1.2;
+    margin-top: 0;
+    color: #02827f;
+}
+.wrimagecardcontent {
+    padding-left: 3.5rem;
+    margin-top: -0.3rem;
+    font-weight: 500;
+}
+
+.statustitle{
+    font-size: 1.5rem;
+    color: #02827F;
+    font-weight: 500;
+    margin-bottom: 2rem;
+    margin-left: 1rem;
+}
+.substatustitle{
+    font-size: 1.2rem;
+    color: #02827F;
+    font-weight: 500;
+    margin-bottom: 1rem;
+}
+
+.iconcolor{
+    width: 35px;
+    height: 33px;
+    margin-right: 1rem;
+}
+
+
+.formcontrolbuttonright {
+    text-align: center;
+}
+.formcontrolsave {
+    color: #01345b;
+    background: #ffff;
+    font-weight: 600;
+    float: center;
+    margin: 1rem;
+}
+.formcontrolcancel {
+    background: #01345b;
+    border-color: #01345b;
+    font-weight: 600;
+}
+.formcontrolback {
+    background: #ffff;
+    border-color: #01345b;
+    font-weight: 600;
+    color: #01345b;
+}
+
+.formcontrolnext {
+    color: #01345b;
+    background: #ffff;
+    border-color: #01345b;
+    font-weight: 600;
+    float: right;
+}
+
+.progresstext {
+    float: center;
+}
+.imagecard{
+    display: inline-block;
+    margin: 1rem;
+    position: relative;
+    padding-right: 2rem;
+}
+
+.addfile{
+    background: #ffff;
+    font-weight: 600;
+    color: #02827F;
+    margin-bottom: 1rem;
+}
+.addfile:hover{
+    color: #ffffff;
+    background-color: #02827F;
+}
+
+.photostitle{
+    margin-bottom: 1rem;
+}
+
+.deleteicon{
+    position: absolute;
+    left: 9rem;
+    z-index: 1;
+    top: 0.3rem;
+    display: block;
+    
+}
+
+.rightimagecard{
+    margin-top: -0.3rem;
+}

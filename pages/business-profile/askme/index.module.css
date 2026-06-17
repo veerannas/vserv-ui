@@ -1,0 +1,281 @@
+.wrimagecard {
+	margin-bottom: 0.5rem;
+	font-size: 2.2rem;
+	line-height: 1.2;
+	margin-top: 0;
+	color: #02827f;
+	font-weight: 600;
+}
+.head {
+	/* background-color: #EDF4EA; */
+	height: 4.5rem;
+	padding: 0.3rem;
+}
+
+.wrimagecardcontent {
+	padding-left: 3rem;
+	margin-top: -0.1rem;
+	font-weight: 500;
+}
+.wrimagecardheading {
+	font-size: 1.3rem;
+	position: absolute;
+	padding: 1%;
+	margin-left: 1rem;
+}
+.wrimagecardtitle {
+	margin-bottom: 0.5rem;
+	font-weight: 500;
+	line-height: 1.2;
+	color: #02827f;
+}
+.wrimagecardtextcolor {
+	color: #ff3b00;
+}
+.leftPanel {
+	height: 100%;
+}
+.rating {
+	background-color: #035e5c;
+	color: #fff;
+	padding: 0.5rem;
+	font-weight: 600;
+}
+.reviewbtn {
+	background-color: #035e5c;
+	padding: 0rem;
+	width: 50%;
+}
+.askmebtn {
+	background-color: #035e5c;
+	padding: 0rem;
+	/* padding-right: 2rem; */
+	width: 50%;
+}
+.askmebtn :hover {
+	background-color: #035e5c;
+}
+.navBar {
+	background-color: #02827f;
+	/* height: 100%; */
+}
+.navBarCol {
+	padding: 0.5rem;
+}
+.navBarBtn {
+	width: 95%;
+	margin-bottom: 0.5rem;
+}
+.navBarIcon {
+	padding-right: 1rem;
+}
+/* review and Rating */
+.heading {
+	background-color: #f7f7f7;
+	padding: 2rem;
+	font-size: 2rem;
+}
+.owner {
+	color: #000000;
+	font-size: 14px;
+	font-family: 'Yu Gothic UI';
+	font-weight: 500;
+}
+.reviewDate {
+	/* font-size: 10px; */
+	font-family: 'Calibri';
+	margin-top: -1.2rem;
+	margin-left: 20rem;
+}
+
+.starsize {
+	margin-left: 20rem;
+	font-size: 1.3rem;
+	/* margin-top: -1.2rem; */
+}
+
+.reviewstarsize {
+	float: right;
+	/* margin-top: 0.5rem; */
+	font-size: 2rem;
+}
+
+.hiddenicons {
+	float: right;
+	margin-right: 1rem;
+	display: block;
+}
+
+/* .businessCol:hover .hiddenicons{
+  display: block;
+} */
+
+.reviewTitle {
+	font-weight: 800;
+	font-size: 12px;
+	font-family: 'Yu Gothic UI';
+	font-weight: bold;
+	color: #01345b;
+	margin-top: -0.5rem;
+}
+.reviewStart {
+	color: #707070;
+	font-size: 12px;
+	font-family: 'Helvetica Neue';
+}
+.busReviewTitle {
+	color: #474747;
+	font-size: 22px;
+	font-family: 'Yu Gothic UI';
+	font-weight: 800;
+}
+.busOwner {
+	color: #000000;
+	font-size: 21px;
+}
+.businessreviewTitle {
+	color: #01345b;
+	font-weight: 800;
+	font-size: 19px;
+	font-family: 'Calibri';
+}
+.busreview {
+	color: #1c1c1c;
+	font-size: 16px;
+	font-family: 'Helvetica Neue';
+}
+.prfolePhoto {
+	border-radius: 50%;
+	width: 60px;
+	height: 60px;
+	/* margin-right: -15rem; */
+}
+.photo {
+	display: contents;
+}
+.businessCol {
+	/* display: flex;
+  cursor: pointer !important; 
+  border-right: 2px solid red; */
+	background-color: #ebf5ff;
+}
+
+.sideline {
+	display: flex;
+	cursor: pointer !important;
+	border-right: 2px solid red;
+}
+
+.notsideline {
+	display: flex;
+	cursor: pointer !important;
+	/* border-right: 2px solid #fff; */
+}
+/* .businessCol:active {
+  box-shadow: 0 1px 10px red;
+} */
+.businessdata {
+	margin-left: 2rem;
+}
+
+.reviewDatecolor {
+	/* margin-left: 20rem; */
+	float: right;
+	font-size: 1rem;
+	margin-top: 1rem;
+}
+.deleteicon {
+	float: right;
+	margin-left: 2rem;
+}
+
+.inboxicon {
+	float: right;
+	margin-left: 2rem;
+}
+
+.formcontrolbuttonright {
+	/* text-align: right; */
+	margin-left: 25rem;
+}
+
+.formcontrolsend {
+	color: #02827f;
+	background-color: transparent;
+	border: 1px solid #02827f;
+	margin-right: 1rem;
+}
+
+.formcontrolsend:hover {
+	color: #fff;
+	background-color: #02827f;
+}
+
+.replyform {
+	border: 1px solid #dadce0;
+}
+
+.ownername {
+	margin-left: 0.5rem;
+	margin-top: 0.5rem;
+}
+
+.replyTextArea {
+	margin-left: 0.5rem;
+}
+
+.sentbox {
+	margin-left: 1rem;
+	font-size: 2rem;
+	padding: 0.5rem;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.sentreplybox {
+	padding-left: 1rem;
+	margin-top: 1rem;
+	margin-left: 1.5rem;
+	border-left: 1px solid #070707;
+}
+
+.tabletrashicons {
+	position: absolute;
+	left: 9.5rem;
+	top: 0.5rem;
+	height: 30px;
+	width: 30px;
+	border-radius: 50%;
+	border: 1px solid #dadce0;
+	line-height: 30px;
+	text-align: center;
+}
+
+.tableenvelopopenicons {
+	position: absolute;
+	left: 12.5rem;
+	top: 0.5rem;
+	height: 30px;
+	width: 30px;
+	border-radius: 50%;
+	border: 1px solid #dadce0;
+	line-height: 30px;
+	text-align: center;
+}
+
+.tableenvelopcloseicons {
+	position: absolute;
+	left: 15.5rem;
+	top: 0.5rem;
+	height: 30px;
+	width: 30px;
+	border-radius: 50%;
+	border: 1px solid #dadce0;
+	line-height: 30px;
+	text-align: center;
+}
+
+.hiddenicons:hover{
+	font-size: 15px ;
+}
+

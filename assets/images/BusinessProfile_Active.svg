@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27.193" height="31.216" viewBox="0 0 27.193 31.216">
+  <g id="Group_3429" data-name="Group 3429" transform="translate(2 2)">
+    <g id="Group_2831" data-name="Group 2831" transform="translate(2 5)" style="isolation: isolate">
+      <line id="Line_72" data-name="Line 72" x2="4" transform="translate(0 0)" fill="none" stroke="#02827f" stroke-linecap="round" stroke-width="1.5"/>
+      <line id="Line_72-2" data-name="Line 72" x2="10" transform="translate(7 0)" fill="none" stroke="#02827f" stroke-linecap="round" stroke-width="1.5"/>
+      <line id="Line_72-3" data-name="Line 72" x2="4" transform="translate(0 4)" fill="none" stroke="#02827f" stroke-linecap="round" stroke-width="1.5"/>
+      <line id="Line_72-4" data-name="Line 72" x2="10" transform="translate(7 4)" fill="none" stroke="#02827f" stroke-linecap="round" stroke-width="1.5"/>
+      <line id="Line_72-5" data-name="Line 72" x2="4" transform="translate(0 9)" fill="none" stroke="#02827f" stroke-linecap="round" stroke-width="1.5"/>
+      <line id="Line_72-6" data-name="Line 72" x2="10" transform="translate(7 9)" fill="none" stroke="#02827f" stroke-linecap="round" stroke-width="1.5"/>
+      <line id="Line_72-7" data-name="Line 72" x2="4" transform="translate(0 13)" fill="none" stroke="#02827f" stroke-linecap="round" stroke-width="1.5"/>
+      <line id="Line_72-8" data-name="Line 72" x2="10" transform="translate(7 13)" fill="none" stroke="#02827f" stroke-linecap="round" stroke-width="1.5"/>
+    </g>
+    <g id="Path_2291" data-name="Path 2291" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M0,0H21.487V27.216H0Z" stroke="none"/>
+      <path d="M -1.9073486328125e-06 0 L -1.9073486328125e-06 27.21628189086914 L 21.48653984069824 27.21628189086914 L 21.48653984069824 0 L -1.9073486328125e-06 0 M -1.9073486328125e-06 -2 L 21.48653984069824 -2 C 22.59110832214355 -2 23.48653793334961 -1.104568481445313 23.48653793334961 0 L 23.48653793334961 27.21628189086914 C 23.48653793334961 28.32085037231445 22.59110832214355 29.21628189086914 21.48653984069824 29.21628189086914 L -1.9073486328125e-06 29.21628189086914 C -1.104570388793945 29.21628189086914 -2.000001907348633 28.32085037231445 -2.000001907348633 27.21628189086914 L -2.000001907348633 0 C -2.000001907348633 -1.104568481445313 -1.104570388793945 -2 -1.9073486328125e-06 -2 Z" stroke="none" fill="#02827f"/>
+    </g>
+    <path id="Icon_metro-pencil" data-name="Icon metro-pencil" d="M19.491,1.928A3.133,3.133,0,0,1,22,6.942L20.745,8.195,16.358,3.808l1.253-1.253a3.119,3.119,0,0,1,1.88-.627ZM3.824,16.342l-1.253,5.64,5.64-1.253L19.8,9.135,15.418,4.748Z" transform="translate(2.443 5.234)" fill="#02827f" stroke="#7d7d7d" stroke-linejoin="bevel" stroke-width="0.25"/>
+  </g>
+</svg>

@@ -1,0 +1,125 @@
+.ovemap {
+    overflow: "auto";
+    height: "100px";
+}
+
+.result {
+    color: "gray";
+    font-size: "15px";
+}
+
+.resultcount {
+    color: #b1b1b1;
+    font-size: 12px;
+}
+
+.imgcom {
+    height: 87%;
+    width: 100%;
+}
+
+.popubut {
+    height: 24px;
+    font-size: 10px;
+    border: 20px;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    background-color: #76d7c4;
+}
+
+.cardtitle {
+    font-size: 15px;
+    cursor: pointer;
+    color: #01345b;
+}
+
+.addressstl {
+    font-size: 12px;
+    margin-top: -10px;
+}
+
+.comserv {
+    font-size: 10px;
+}
+
+.starrating {
+    color: #ffc107;
+}
+
+.viewbutton {
+    width: 60px;
+    font-size: 12px;
+    border: 20px;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    background-color: #ff784f;
+}
+
+.buttonlook {
+    font-size: 9px;
+    border-radius: 20px;
+    background-color: #ffff;
+    border: 2px solid #6800f7;
+}
+
+.review {
+    float: right;
+    padding-right: 100px;
+    font-size: 12px;
+    padding-top: 3px;
+    font-weight: bold;
+}
+
+.viewmargin {
+    margin-top: -15px;
+}
+
+.cssribbon {
+    width: 33px;
+    height: 0px;
+    border-bottom: 13px solid #fff;
+    border-top: 13px solid #fff;
+    border-left: 6px solid transparent;
+    float: right;
+    margin-bottom: 0px;
+    font-weight: 500;
+    position: absolute;
+    right: 15px;
+    top: 3px;
+}
+
+.bookmarkdesign {
+    position: relative;
+    top: -9px;
+    text-align: center;
+    right: -6px;
+}
+
+.favoritecolor {
+    color: #ff3838;
+}
+
+.location {
+    color: #ff3838;
+    font-size: 19px;
+}
+
+.category {
+    color: #01345b;
+}
+
+.sizebetween {
+    padding: 1%;
+}
+
+.cardborder {
+    border: 1px solid #ffff;
+}
+
+.cardimage {
+    height: 90%;
+}
+
+.cardbox {
+    margin-bottom: -25px;
+}

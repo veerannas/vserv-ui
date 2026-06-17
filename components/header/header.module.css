@@ -1,0 +1,23 @@
+.customjumbo {
+    background: #01345b !important;
+    margin-bottom: 0 !important;
+    padding-top: 20px;
+}
+
+.mainheading {
+    color: #ff784f;
+    font: adobe-clean, 16px;
+    padding-top: 70px;
+}
+
+.mainheadingcontent {
+    color: #fff;
+    font: adobe-clean;
+    font-size: 17px;
+    font-weight: 400;
+}
+
+.homescreenimage {
+    height: 100%;
+    width: 100%;
+}

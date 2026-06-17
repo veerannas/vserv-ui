@@ -1,0 +1,55 @@
+/* .leftpanel {
+    background-image: url(./assets/img.jpg);
+    text-align: center;
+    padding: 5%;
+} */
+
+.signinbutton {
+    background: #ff784f;
+    color: #fff;
+}
+
+.formrowpassword {
+    float: left;
+}
+
+.errorcolor {
+    float: left !important;
+}
+
+.labelcolor{
+    float: left;
+    color: #01345b;
+}
+
+.signincolor{
+    color: #01345b;
+    font-size: 2rem;
+    margin-bottom: 15px;
+    font-weight: 450;
+    text-align: center !important;
+}
+
+/* .formcard{
+    margin-left: 0rem;
+    margin-right: 0rem;
+    text-align: center;
+} */
+
+.btncolor{
+    border: none;
+    background-color: transparent;
+    color: #fff;
+    width: 100%;
+}
+
+.eye{
+    margin-right: 0.5rem;
+    float: right;
+    margin-top: -3rem;
+    cursor: pointer;
+}
+
+.formcontrolinput{
+    margin-bottom: 1rem;
+}

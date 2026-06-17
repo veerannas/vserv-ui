@@ -1,0 +1,36 @@
+.actionFormatter {
+	display: inline-flex;
+}
+
+
+.listingButton {
+	border: 1px solid #921C00;
+	color: #921C00;
+	font-weight: 500;
+	/* /* padding: 0.5rem; */
+    margin-right: 0.5rem; 
+	background-color: #fff;
+}
+.listingButton:hover{
+	-webkit-transform: scale(1.1);
+    background: #921C00;
+	border:1px solid #921C00;
+}
+.listingNumber {
+	padding-left: 1rem;
+}
+
+.modalbody{
+	text-align: center;
+	padding: 1rem !important;
+}
+.modalButton{
+	color: white;
+	background-color: #921C00;
+	border: 1px #921C00;
+}
+.modalheading{
+	background-color: #921C00;
+	color: white;
+	height: 4rem;
+}
